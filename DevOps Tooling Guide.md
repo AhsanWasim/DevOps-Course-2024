@@ -1,4 +1,4 @@
-# DevOps Tooling Operations for [A simple MERN Project](https://github.com/shivakrishnak13/attryb_project)
+# 🛠️DevOps Tooling Operations for [A simple MERN Project](https://github.com/shivakrishnak13/attryb_project)
 
 
 This document outlines the DevOps tooling operations that I have implemented in this project using **Kyverno policies** and **GitHub Actions CI/CD pipeline**.
