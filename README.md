@@ -28,3 +28,7 @@ Learn about my theoretical foundation and hands-on practice in Git, Docker, Kube
 See how my university experience and self-driven projects shaped my DevOps skill set.
 [📘 Read My Learning Journey ➡️](https://github.com/AhsanWasim/DevOps-Course-2024/blob/main/DevOps%20Learning%20Guide.md)
 
+
+Connect With Me:
+https://www.linkedin.com/in/ahsan-wasim-a6a508253/ 
+ahsanwasim11@gmail.com
